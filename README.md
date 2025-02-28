@@ -70,7 +70,6 @@ config = [
             },
             {
                 "nodeId": "12D..................................5",
-                "hardwareId": "HARDWARE_ID", #stays same for all nodes
                 "proxy": ""  #format: socks5://username:pass@ip:port
             },
         ]
