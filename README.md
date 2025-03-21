@@ -184,5 +184,5 @@ Contact `FakerPK` on:
 
 ----
 <a href="https://github.com/FakerPK/" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=FakerPK&style=pixel&color=orange&label=PEOPLE+WHO+VIEWED+MY+PROFILE:" alt="Profile view counter">
+  <img src="https://komarev.com/ghpvc/?username=FakerPK&style=pixel&color=orange&label=PEOPLE+WHO+VIEWED+MY+PROFILE:" alt="Profile view counter"></a>
   
